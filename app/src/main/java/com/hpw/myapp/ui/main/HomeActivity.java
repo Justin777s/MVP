@@ -6,7 +6,7 @@ import com.hpw.mvpframe.base.CoreBaseActivity;
 import com.hpw.mvpframe.utils.SpUtil;
 import com.hpw.myapp.R;
 
-public class MainActivity extends CoreBaseActivity {
+public class HomeActivity extends CoreBaseActivity {
 
     @Override
     public int getLayoutId() {
